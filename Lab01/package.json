@@ -1,0 +1,19 @@
+{
+  "name": "lab01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kieuhan3124/funix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kieuhan3124/funix/issues"
+  },
+  "homepage": "https://github.com/kieuhan3124/funix#readme"
+}
